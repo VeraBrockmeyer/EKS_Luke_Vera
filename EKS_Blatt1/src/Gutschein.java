@@ -1,7 +1,9 @@
 public abstract class Gutschein{
-	private float wert;
+	protected float wert;
 	
-	public float getWert(){
-		return wert;
+	public Gutschein(float wert){
+		this.wert = wert;
 	}
+	
+	public abstract float getWert();
 }

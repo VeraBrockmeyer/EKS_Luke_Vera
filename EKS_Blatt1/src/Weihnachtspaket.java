@@ -2,14 +2,12 @@ public class Weihnachtspaket extends Geschenkpaket{
 
 	@Override
 	public Gutschein erzeugeGutschein() {
-		// TODO Auto-generated method stub
-		return null;
+		return new CDGutschein(20);
 	}
 
 	@Override
 	public Werbegeschenk erzeugeWerbegeschenk() {
-		// TODO Auto-generated method stub
-		return null;
+		return new Weihnachtsmann();
 	}
 	
 }
