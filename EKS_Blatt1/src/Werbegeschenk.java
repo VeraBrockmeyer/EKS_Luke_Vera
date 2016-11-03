@@ -1,7 +1,7 @@
 public abstract class Werbegeschenk{
-	private String art;
-	
-	public String getArt(){
-		return art;
-	}
+	protected String art;
+	public Werbegeschenk(String art) {
+		this.art=art;
+		}
+	public abstract String getArt();
 }
