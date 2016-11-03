@@ -1,3 +1,5 @@
+package aufgabe1;
+
 public class Osterhase extends Werbegeschenk{
 
 	public Osterhase() {

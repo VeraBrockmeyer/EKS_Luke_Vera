@@ -1,3 +1,5 @@
+package aufgabe1;
+
 public abstract class Gutschein{
 	protected float wert;
 	

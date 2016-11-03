@@ -1,3 +1,5 @@
+package aufgabe1;
+
 public class Weihnachtspaket extends Geschenkpaket{
 
 	@Override

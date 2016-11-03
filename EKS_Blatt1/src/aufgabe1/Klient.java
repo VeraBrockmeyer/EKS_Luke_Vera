@@ -1,3 +1,5 @@
+package aufgabe1;
+
 public class Klient {
 	public static void main(String[] args) {
 		Geschenkpaket weihnachten = new Weihnachtspaket();
