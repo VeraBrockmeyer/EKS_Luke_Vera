@@ -1,3 +1,7 @@
-public class Gutschein{
-	public float getWert;
+public abstract class Gutschein{
+	private float wert;
+	
+	public float getWert(){
+		return wert;
+	}
 }

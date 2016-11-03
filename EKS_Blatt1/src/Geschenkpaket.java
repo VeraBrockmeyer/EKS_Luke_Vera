@@ -1,8 +1,4 @@
-public class Geschenkpaket{
-	public Gutschein erzeugeGutschein(){
-		return new Gutschein();
-	}
-	public Werbegeschenk erzeugeWerbegeschenk(){
-		return new Werbegeschenk();
-	}
+public abstract class Geschenkpaket{
+	public abstract Gutschein erzeugeGutschein();
+	public abstract Werbegeschenk erzeugeWerbegeschenk();
 }
