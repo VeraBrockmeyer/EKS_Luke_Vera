@@ -257,7 +257,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_2mVQAqGkEea8lLHJYC7ycg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_2mx78KGkEea8lLHJYC7ycg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_1vPR5qGkEea8lLHJYC7ycg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_pmwyh6G1Eea8G9x7HR1iOw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_1vPR5qGkEea8lLHJYC7ycg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_2mVQA6GkEea8lLHJYC7ycg" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -278,7 +278,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_2mVQB6GkEea8lLHJYC7ycg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_2m7F4KGkEea8lLHJYC7ycg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_1vPRXaGkEea8lLHJYC7ycg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_pm58d6G1Eea8G9x7HR1iOw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_1vPRXaGkEea8lLHJYC7ycg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_2mVQCKGkEea8lLHJYC7ycg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -351,9 +351,6 @@
     <bindings xmi:id="_1w3nzKGkEea8lLHJYC7ycg" keySequence="ALT+SHIFT+D T" command="_1vPQE6GkEea8lLHJYC7ycg"/>
     <bindings xmi:id="_1w3nzaGkEea8lLHJYC7ycg" keySequence="ALT+SHIFT+D A" command="_1vPRuaGkEea8lLHJYC7ycg"/>
     <bindings xmi:id="_1w3nzqGkEea8lLHJYC7ycg" keySequence="CTRL+SHIFT+R" command="_1vYaFKGkEea8lLHJYC7ycg"/>
-    <bindings xmi:id="_1w3nz6GkEea8lLHJYC7ycg" keySequence="CTRL++" command="_1vPR_KGkEea8lLHJYC7ycg">
-      <tags>locale:de</tags>
-    </bindings>
     <bindings xmi:id="_1w3n16GkEea8lLHJYC7ycg" keySequence="CTRL+E" command="_1vPRtaGkEea8lLHJYC7ycg"/>
     <bindings xmi:id="_1w3n2KGkEea8lLHJYC7ycg" keySequence="CTRL+SHIFT+E" command="_1vPQ-qGkEea8lLHJYC7ycg"/>
     <bindings xmi:id="_1w3n2aGkEea8lLHJYC7ycg" keySequence="ALT+SHIFT+F" command="_1vPSAqGkEea8lLHJYC7ycg"/>
